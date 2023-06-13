@@ -3,7 +3,6 @@ import { useNavigate, Link } from "react-router-dom";
 import React from "react";
 import { useState, useEffect } from "react";
 import TodoForm from "./TodoForm";
-import Todos from "./Todos";
 
 const Profile = () => {
   const navigate = useNavigate();

@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import { databases } from "../appwrite/appwriteConfig";
-import { v4 as uuidv4 } from "uuid";
 
 const Todos = ({ listOfNotes }) => {
   const [todos, setTodos] = useState();
