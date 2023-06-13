@@ -30,7 +30,8 @@ const TodoForm = () => {
   };
 
   return (
-    <div className="max-w-7xl mx-auto mt-10">
+    <div className="max-w-6xl mx-auto mt-10">
+      <p className="flex mb-4 ">Enter to do list</p>
       <form
         action=""
         className="flex justify-center mb-10"
@@ -40,19 +41,19 @@ const TodoForm = () => {
           type="text"
           name=""
           id=""
-          placeholder="Enter Todo"
-          className="border p-2 w-2/3 rounded-md"
+          placeholder="Write something..."
+          className="border py-3 pl-6 w-full rounded"
           onChange={(e) => {
             setTodo(e.target.value);
           }}
           value={todo}
         />
-        <button
+        {/* <button
           className="bg-purple-500 p-2 text-white ml-2 rounded-md"
           type="submit"
         >
           Add Todo
-        </button>
+        </button> */}
       </form>
       <Todos listOfNotes={list} />
     </div>

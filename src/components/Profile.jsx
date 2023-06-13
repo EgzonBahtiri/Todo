@@ -35,20 +35,20 @@ const Profile = () => {
     <>
       {userDetails ? (
         <>
-          <div className="min-h-min max-w-7xl mx-auto shadow-md flex justify-between text-right py-3 px-3 mt-2 rounded-md">
+          <div className="py-14 max-w-screen px-32 flex mx-auto justify-between bg-blue-100">
             <div>
               <p className="text-xl">Hello {userDetails.name}</p>
             </div>
             <div>
               <button
-                className="bg-red-400 text-white p-1 rounded-md"
+                className="bg-[#2E67D6] text-white py-3 px-6 rounded-md"
                 onClick={handleLogout}
               >
                 Logout
               </button>
             </div>
           </div>
-          {/* TODO FORM */}
+
           <TodoForm />
           {/* TODOS BOX */}
         </>
