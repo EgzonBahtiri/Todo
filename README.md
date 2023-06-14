@@ -7,11 +7,11 @@ Welcome to the Todo List App repository! This application, built using React, Ta
 - Intuitive user interface for efficient task management.
 - Seamless integration with the Appwrite database for secure storage and retrieval of todo lists.
 
-<img width="1060" alt="Screenshot 2023-06-14 at 3 10 33 AM" src="https://github.com/EgzonBahtiri/todo/assets/25590360/98b29f67-af80-4d7c-a57e-69084070f3d5">
+<img width="1060" alt="Screenshot 2023-06-14 at 3 10 33 AM" src="https://github.com/EgzonBahtiri/Todo/assets/25590360/177ec376-bd3c-4915-84aa-1ac6c07f7827">
 
-<img width="1060" alt="Screenshot 2023-06-14 at 3 10 25 AM" src="https://github.com/EgzonBahtiri/todo/assets/25590360/2d550043-d483-49e7-bee9-3de62f4da656">
+<img width="1060" alt="Screenshot 2023-06-14 at 3 10 25 AM" src="https://github.com/EgzonBahtiri/Todo/assets/25590360/5f58f367-8e65-4ad3-babc-c2011e5b910b">
 
-<img width="1939" alt="Screenshot 2023-06-14 at 3 11 36 AM" src="https://github.com/EgzonBahtiri/todo/assets/25590360/d84b2283-7d33-4f87-a784-01e2cbc0363f">
+<img width="1939" alt="Screenshot 2023-06-14 at 3 11 36 AM" src="https://github.com/EgzonBahtiri/Todo/assets/25590360/1d6d9e64-a963-4987-8019-74b73ed14da6">
 
 
 ## Installation
