@@ -8,8 +8,8 @@ const Todos = ({ listOfNotes }) => {
   useEffect(() => {
     setLoader(true);
     const getTodos = databases.listDocuments(
-      "6489071dd144feacd5a8",
-      "64890732de7d5e18c789"
+      "6487a55e1e3f23cc5cc9",
+      "6487a5ccf40b393aad99"
     );
     getTodos.then(
       function (response) {
@@ -28,8 +28,8 @@ const Todos = ({ listOfNotes }) => {
   const deleteTodo = (id) => {
     console.log(id);
     const promise = databases.deleteDocument(
-      "6489071dd144feacd5a8",
-      "64890732de7d5e18c789",
+      "6487a55e1e3f23cc5cc9",
+      "6487a5ccf40b393aad99",
       id
     );
     promise.then(
