@@ -10,8 +10,8 @@ const TodoForm = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     const promise = databases.createDocument(
-      "6487a55e1e3f23cc5cc9",
-      "6487a5ccf40b393aad99",
+      "6489071dd144feacd5a8",
+      "64890732de7d5e18c789",
       uuidv4(),
       {
         todo,
