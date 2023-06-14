@@ -26,10 +26,6 @@ To run this todo list application locally, please follow these steps:
 npm install
 ```
 
-4. Configure your Appwrite project by creating a new project and obtaining the required credentials.
-5. Update the Appwrite configuration in the application code with your own credentials.
-6. Launch the application by running the following command:
-
 ```bash
 npm start
 ```
