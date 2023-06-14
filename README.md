@@ -38,4 +38,4 @@ Contributions to this todo list application are highly appreciated. If you encou
 
 ## Acknowledgements
 
-We extend our heartfelt appreciation to the creators of React, Tailwind, and Appwrite for their exceptional frameworks and tools, which have enabled the development of this robust todo list application.
+I extend my heartfelt appreciation to the creators of React, Tailwind, and Appwrite for their exceptional frameworks and tools, which have enabled the development of this robust todo list application.
