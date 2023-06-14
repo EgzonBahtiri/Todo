@@ -1,6 +1,6 @@
-# Todo List App - React, Tailwind, and Appwrite
+# Todo List App - React, TailwindCSS, and Appwrite
 
-Welcome to the Todo List App repository! This application, built using React, Tailwind, and Appwrite, offers a simple yet powerful solution for managing your daily tasks. By integrating with the Appwrite database, users can create an account, log in, and conveniently access their personalized todo lists.
+Welcome to the Todo List App repository! This application, built using React, TailwindCSS, and Appwrite, offers a simple yet powerful solution for managing your daily tasks. By integrating with the Appwrite database, users can create an account, log in, and conveniently access their personalized todo lists.
 
 ## Features
 
